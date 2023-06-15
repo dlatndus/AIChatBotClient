@@ -21,5 +21,10 @@ namespace AIChatBotClient
         {
             Application.Exit();
         }
+
+        private void aI상담친구정ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
